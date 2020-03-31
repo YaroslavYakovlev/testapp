@@ -13,43 +13,6 @@ class MyClass{
 #endif
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 // #ifndef VALUE_H
 // #define VALUE_H
 
