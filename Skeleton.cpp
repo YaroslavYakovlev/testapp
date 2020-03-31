@@ -20,49 +20,6 @@ void MyClass::myClass(){
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 // #include <iostream>
 // #include <stdio.h>
 // #include "Value.h"
