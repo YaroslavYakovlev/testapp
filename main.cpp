@@ -1,3 +1,4 @@
+//git push --set-upstream https://github.com/YaroslavYakovlev/testapp.git master
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
@@ -23,38 +24,6 @@ int main()
 
 return 0;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 // ValueClass *mc = new ValueClass();
